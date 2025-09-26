@@ -1,0 +1,31 @@
+{
+  "name": "taxation-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "npx mocha ./tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gift-nabaggala/tax-calculator-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/gift-nabaggala/tax-calculator-project/issues"
+  },
+  "homepage": "https://github.com/gift-nabaggala/tax-calculator-project#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.36.0",
+    "chai": "^6.0.1",
+    "eslint": "^9.36.0",
+    "globals": "^16.4.0",
+    "mocha": "^11.7.2"
+  }
+}
